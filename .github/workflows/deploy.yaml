@@ -1,8 +1,8 @@
-name: Deploy Frontend
+name: Deploynww
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
